@@ -9,3 +9,9 @@ function quadrado(num3){
 }
 quadrado(20);
 console.log(quadrado(20));
+
+function quadrado2(num4){
+    return num4**2;
+}
+quadrado2(10);
+console.log(quadrado(10));
