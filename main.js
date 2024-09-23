@@ -25,5 +25,6 @@ let num1 = prompt('primeiro número: ');
 let num2 = prompt('Segundo número: ');
 let num3 = prompt('Terceiro número: ');
 function media(num1, num2, num3){
-    console.log((num1 + num2 + num3) / 3);
+    return (num1 + num2 + num3) / 3;
 }
+console.log(media((num1 + num2 + num3) / 3));
