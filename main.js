@@ -27,4 +27,5 @@ let num3 = parseInt(prompt('Terceiro número: '));
 function media(num1, num2, num3){
     return (num1 + num2 + num3) / 3;
 }
+console.log(media(num1, num2, num3));
 document.write(media(num1, num2, num3));
