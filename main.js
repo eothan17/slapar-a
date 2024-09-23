@@ -19,5 +19,8 @@ console.log(quadrado(10));
 let areatriangulo = function(base, altura){
     return (base * altura) / 2
 }
-areatriangulo(5, 8);
 console.log(areatriangulo(5, 8));
+let num1 = prompt('primeiro número: ');
+let num2 = prompt('Segundo número: ');
+let num3 = prompt('Terceiro número: ');
+console.log((num1 + num2 + num3) / 3);
