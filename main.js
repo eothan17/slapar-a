@@ -8,4 +8,4 @@ function quadrado(num3){
     return num3 * num3;
 }
 quadrado(20);
-console.log(quadrado(20)),
+console.log(quadrado(20));
