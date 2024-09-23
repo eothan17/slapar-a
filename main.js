@@ -15,3 +15,9 @@ function quadrado2(num4){
 }
 quadrado2(10);
 console.log(quadrado(10));
+
+let areatriangulo = function(num5){
+    return num5 ** 3
+}
+areatriangulo(5);
+console.log(areatriangulo(5))
