@@ -16,8 +16,8 @@ function quadrado2(num4){
 quadrado2(10);
 console.log(quadrado(10));
 
-let areatriangulo = function(num5){
-    return num5 ** 3
+let areatriangulo = function(base, altura){
+    return base * altura / 2
 }
-areatriangulo(5);
-console.log(areatriangulo(5))
+areatriangulo(5, 8);
+console.log(areatriangulo(5, 8))
