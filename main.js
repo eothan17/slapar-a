@@ -21,9 +21,9 @@ let areatriangulo = function(base, altura){
 }
 console.log(areatriangulo(5, 8));
 
-let num1 = prompt('primeiro número: ');
-let num2 = prompt('Segundo número: ');
-let num3 = prompt('Terceiro número: ');
+let num1 = parseInt(prompt('primeiro número: '));
+let num2 = parseInt(prompt('Segundo número: '));
+let num3 = parseInt(prompt('Terceiro número: '));
 function media(num1, num2, num3){
     return (num1 + num2 + num3) / 3;
 }
