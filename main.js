@@ -1,3 +1,4 @@
+alert('Nathan e Livia')
 function soma(num1, num2){
     return num1 + num2;
 }
@@ -29,3 +30,4 @@ function media(num1, num2, num3){
 }
 console.log(media(num1, num2, num3));
 document.write(media(num1, num2, num3));
+
