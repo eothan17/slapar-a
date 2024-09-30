@@ -38,5 +38,7 @@ let i = 0;
 while (i < estados.length){
     console.log(i);
     i = (i+1);
+    console.log(estados[i]);
+    i = i + 1
 
 }
