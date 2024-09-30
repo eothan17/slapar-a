@@ -50,3 +50,7 @@ if (idade > 17){
 else{
     console.log('Ilegal dirigir')
 }
+
+for(let i = 0;i < estado.length;i++){
+    console.log(estados[i]);
+}
