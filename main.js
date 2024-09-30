@@ -33,3 +33,10 @@
 
 let estados = ['Distrito Federal', 'Goiás', 'Mato grosso', 'mato grosso do sul', 'Alagoas', 'Bahia', 'Ceará', ' Maranhão', 'Paraíba', 'Pernanbuco', 'píaui', 'Rio grande do norte', 'Sergipe', 'Acre', 'Amapá', 'Amazonas', 'Pará', 'Rondônia', 'Roraima', 'Tocantins', 'Espirito santo', 'Minas Gerais', 'Rio de Janeiro', 'Sâo Paulo', 'Paraná', 'Rio Grande do sul', 'Santa Catarina']
 estados.length
+
+let i = 0;
+while (i < 10){
+    console.log(i);
+    i = (i+1);
+    
+}
