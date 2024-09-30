@@ -35,8 +35,8 @@ let estados = ['Distrito Federal', 'Goiás', 'Mato grosso', 'mato grosso do sul'
 estados.length
 
 let i = 0;
-while (i < 10){
+while (i < estados.length){
     console.log(i);
     i = (i+1);
-    
+
 }
